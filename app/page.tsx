@@ -125,7 +125,7 @@ const Page = () => {
         <AppBar position="static" sx={{ p: 1 }}>
           <Toolbar>
             <Typography variant="h1" component="h1">
-              タイトル
+              日本のなんちゃらかんちゃら
             </Typography>
           </Toolbar>
         </AppBar>
